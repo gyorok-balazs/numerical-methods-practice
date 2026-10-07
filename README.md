@@ -1,2 +1,1 @@
 # numerical-methods-practice
-fütyifasz
